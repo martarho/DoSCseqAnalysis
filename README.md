@@ -3,6 +3,7 @@
 Create and populate Makefiles to execute single cell pipelines (and potentially other kind of high-throughput pipelines) using jinja2 templates and Make
 
 ## How it works?
+~~~~
 python create_project.py -h
 Usage: create_project.py [options]
 
@@ -36,3 +37,4 @@ Options:
                         (Default: automatically set by knee-threshold finding)
   -n PROJECT_NAME, --name=PROJECT_NAME
   --scale=SCALE         [OPTIONAL]: scale
+~~~~
