@@ -2,7 +2,7 @@
 ## What is it?
 Create and populate Makefiles to execute single cell pipelines (and potentially other kind of high-throughput pipelines) using jinja2 templates and Make
 
-## How it works?
+## How does it work?
 ~~~~
 python create_project.py -h
 Usage: create_project.py [options]
